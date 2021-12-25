@@ -1,0 +1,13 @@
+.university {
+  background-color: #dfe4ea;
+  padding: 10px 20px;
+  border-radius: 30px;
+}
+.main {
+  position: relative;
+}
+.two {
+  position: absolute;
+  top: -20%;
+  left: 50%;
+}

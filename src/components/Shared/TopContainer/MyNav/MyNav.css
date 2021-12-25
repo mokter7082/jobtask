@@ -1,0 +1,16 @@
+.signIn {
+  background: #fff;
+  color: #f47f20;
+  border: 3px solid #f47f20;
+  padding: 4px;
+  border-radius: 5px;
+  font-weight: 500;
+}
+.profileButton {
+  background: #f47f20;
+  color: #fff;
+  border: 3px solid #f47f20;
+  padding: 4px;
+  border-radius: 5px;
+  font-weight: 500;
+}

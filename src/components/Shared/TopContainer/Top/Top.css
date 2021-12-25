@@ -1,0 +1,11 @@
+.top {
+  background-color: #ebeef6;
+  height: 60px;
+  font-family: "Bitter", serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+.topIcon {
+  color: #f47f20;
+}
